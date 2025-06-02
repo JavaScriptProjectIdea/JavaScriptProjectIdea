@@ -1,16 +1,13 @@
 {
 	"folders": [
 		{
-		"name": "DayOfWeek",
-			"path": "repos/Day-of-Week"
+			"path": "Day-of-Week"
 		},
 		{
-		"name": "WordCounter",
-			"path": "repos/Word-Counter"
+			"path": "Tip-Calculator"
 		},
 		{
-		"name": "TipCalculator",
-			"path": "repos/Tip-Calculator"
+			"path": "Word-Counter"
 		}
 	],
 	"settings": {}
