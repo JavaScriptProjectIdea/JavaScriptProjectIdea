@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "Word-Counter"
+		},
+		{
+			"path": "Number-Guessing-Game"
 		}
 	],
 	"settings": {}
